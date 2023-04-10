@@ -1,8 +1,8 @@
 # Transformer_Primer_Genomics
- A basic tutorial for applying transformer-based models in genomics research.
+ A basic tutorial for applying transformer-based models in genomics.
 This tutorial is a supplement to the manuscript by (Jesper et.al)
 
-See the associated python [notebook](https://raw.githubusercontent.com/sumeer1/Transformer_Primer_Genomics/main/Transformer_Primer_Genomics.ipynb) for the tutorial
+See the associated python notebook for the tutorial
 
 Analyzing DNA Sequences using Pre-Trained Transformer Models
 ----------------------------------------------------------------
@@ -14,7 +14,7 @@ Libraries Used
 
 We use the following Python libraries in this notebook:
 
-    scanpy
+  
     numpy
     pandas
     torch
@@ -28,11 +28,11 @@ Workflow
 
 The workflow of this notebook can be summarized as follows:
 
-    Load a sample DNA sequence.
-    Use a pre-trained transformer model to generate embeddings for the sequence.
-    Visualize the embeddings using a heatmap.
-    Use a Masked Language Model to predict the probabilities of nucleotides at specific positions of the sequence.
-    Visualize the nucleotide probabilities using a bar plot.
+    *Load a sample DNA sequence.
+    *Use a pre-trained transformer model to generate embeddings for the sequence.
+    *Visualize the embeddings using a heatmap.
+    *Use a Masked Language Model to predict the probabilities of nucleotides at specific positions of the sequence.
+    *Visualize the nucleotide probabilities using a bar plot.
 
 
 
