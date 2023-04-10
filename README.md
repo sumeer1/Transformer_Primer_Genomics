@@ -34,10 +34,7 @@ The workflow of this notebook can be summarized as follows:
     Use a Masked Language Model to predict the probabilities of nucleotides at specific positions of the sequence.
     Visualize the nucleotide probabilities using a bar plot.
 
-Code Explanation
----------------------
 
-The code in this notebook is divided into several cells, each with a specific purpose. The first cell imports the necessary libraries for our analysis. The second cell loads a sample DNA sequence for our analysis. The third cell generates embeddings for the DNA sequence using a pre-trained transformer model and visualizes the embeddings using a heatmap. The fourth cell uses a Masked Language Model to predict the probabilities of nucleotides at specific positions of the sequence. The final cell visualizes the nucleotide probabilities using a bar plot.
 
 Conclusion
 --------------------
