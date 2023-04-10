@@ -2,7 +2,7 @@
  A basic tutorial for applying transformer-based models in genomics research.
 This tutorial is a supplement to the manuscript by (Jesper et.al)
 
-See the associated python notebook for the tutorial, or run it right from your browser in a colab notebook.
+See the associated python [notebook](https://raw.githubusercontent.com/sumeer1/Transformer_Primer_Genomics/main/Transformer_Primer_Genomics.ipynb) for the tutorial
 
 Analyzing DNA Sequences using Pre-Trained Transformer Models
 ----------------------------------------------------------------
