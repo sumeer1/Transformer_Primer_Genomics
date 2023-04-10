@@ -28,11 +28,11 @@ Workflow
 
 The workflow of this notebook can be summarized as follows:
 
-    *Load a sample DNA sequence.
-    *Use a pre-trained transformer model to generate embeddings for the sequence.
-    *Visualize the embeddings using a heatmap.
-    *Use a Masked Language Model to predict the probabilities of nucleotides at specific positions of the sequence.
-    *Visualize the nucleotide probabilities using a bar plot.
+    * Load a sample DNA sequence.
+    * Use a pre-trained transformer model to generate embeddings for the sequence.
+    * Visualize the embeddings using a heatmap.
+    * Use a Masked Language Model to predict the probabilities of nucleotides at specific positions of the sequence.
+    * Visualize the nucleotide probabilities using a bar plot.
 
 
 
